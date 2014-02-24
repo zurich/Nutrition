@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nutritional Information</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_food_group">FoodGroupActivity</string>
+    <string name="host">http://dev.badenhorst.ca:8080/nutri/</string>
+    <string name="title_activity_list_food_description">ListFoodDescriptionActivity</string>
+
+</resources>

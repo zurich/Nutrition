@@ -1,0 +1,407 @@
+{"ndb_no": "11302", "food_group_desc": "Vegetables and Vegetable Products", "short_desc": "PEAS,EDIBLE-PODDED,FRZ,UNPREP", "long_desc": "Peas, edible-podded, frozen, unprepared", "nutrients": [
+    {
+        "nutrNo": "203",
+        "description": "Protein",
+        "tagname": "PROCNT",
+        "value": 2.8,
+        "units": "g"
+    },
+    {
+        "nutrNo": "204",
+        "description": "Total lipid (fat)",
+        "tagname": "FAT",
+        "value": 0.3,
+        "units": "g"
+    },
+    {
+        "nutrNo": "205",
+        "description": "Carbohydrate, by difference",
+        "tagname": "CHOCDF",
+        "value": 7.2,
+        "units": "g"
+    },
+    {
+        "nutrNo": "207",
+        "description": "Ash",
+        "tagname": "ASH",
+        "value": 0.4,
+        "units": "g"
+    },
+    {
+        "nutrNo": "208",
+        "description": "Energy",
+        "tagname": "ENERC_KCAL",
+        "value": 42.0,
+        "units": "kcal"
+    },
+    {
+        "nutrNo": "255",
+        "description": "Water",
+        "tagname": "WATER",
+        "value": 89.3,
+        "units": "g"
+    },
+    {
+        "nutrNo": "268",
+        "description": "Energy",
+        "tagname": "ENERC_KJ",
+        "value": 176.0,
+        "units": "kJ"
+    },
+    {
+        "nutrNo": "291",
+        "description": "Fiber, total dietary",
+        "tagname": "FIBTG",
+        "value": 3.1,
+        "units": "g"
+    },
+    {
+        "nutrNo": "301",
+        "description": "Calcium, Ca",
+        "tagname": "CA",
+        "value": 50.0,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "303",
+        "description": "Iron, Fe",
+        "tagname": "FE",
+        "value": 2.0,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "304",
+        "description": "Magnesium, Mg",
+        "tagname": "MG",
+        "value": 23.0,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "305",
+        "description": "Phosphorus, P",
+        "tagname": "P",
+        "value": 51.0,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "306",
+        "description": "Potassium, K",
+        "tagname": "K",
+        "value": 192.0,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "307",
+        "description": "Sodium, Na",
+        "tagname": "NA",
+        "value": 4.0,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "309",
+        "description": "Zinc, Zn",
+        "tagname": "ZN",
+        "value": 0.41,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "312",
+        "description": "Copper, Cu",
+        "tagname": "CU",
+        "value": 0.076,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "315",
+        "description": "Manganese, Mn",
+        "tagname": "MN",
+        "value": 0.235,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "317",
+        "description": "Selenium, Se",
+        "tagname": "SE",
+        "value": 0.7,
+        "units": "µg"
+    },
+    {
+        "nutrNo": "318",
+        "description": "Vitamin A, IU",
+        "tagname": "VITA_IU",
+        "value": 140.0,
+        "units": "IU"
+    },
+    {
+        "nutrNo": "320",
+        "description": "Vitamin A, RAE",
+        "tagname": "VITA_RAE",
+        "value": 7.0,
+        "units": "µg"
+    },
+    {
+        "nutrNo": "401",
+        "description": "Vitamin C, total ascorbic acid",
+        "tagname": "VITC",
+        "value": 22.0,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "404",
+        "description": "Thiamin",
+        "tagname": "THIA",
+        "value": 0.06,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "405",
+        "description": "Riboflavin",
+        "tagname": "RIBF",
+        "value": 0.1,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "406",
+        "description": "Niacin",
+        "tagname": "NIA",
+        "value": 0.5,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "410",
+        "description": "Pantothenic acid",
+        "tagname": "PANTAC",
+        "value": 0.72,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "415",
+        "description": "Vitamin B-6",
+        "tagname": "VITB6A",
+        "value": 0.154,
+        "units": "mg"
+    },
+    {
+        "nutrNo": "417",
+        "description": "Folate, total",
+        "tagname": "FOL",
+        "value": 40.0,
+        "units": "µg"
+    },
+    {
+        "nutrNo": "432",
+        "description": "Folate, food",
+        "tagname": "FOLFD",
+        "value": 40.0,
+        "units": "µg"
+    },
+    {
+        "nutrNo": "435",
+        "description": "Folate, DFE",
+        "tagname": "FOLDFE",
+        "value": 40.0,
+        "units": "µg"
+    },
+    {
+        "nutrNo": "501",
+        "description": "Tryptophan",
+        "tagname": "TRP_G",
+        "value": 0.027,
+        "units": "g"
+    },
+    {
+        "nutrNo": "502",
+        "description": "Threonine",
+        "tagname": "THR_G",
+        "value": 0.099,
+        "units": "g"
+    },
+    {
+        "nutrNo": "503",
+        "description": "Isoleucine",
+        "tagname": "ILE_G",
+        "value": 0.161,
+        "units": "g"
+    },
+    {
+        "nutrNo": "504",
+        "description": "Leucine",
+        "tagname": "LEU_G",
+        "value": 0.228,
+        "units": "g"
+    },
+    {
+        "nutrNo": "505",
+        "description": "Lysine",
+        "tagname": "LYS_G",
+        "value": 0.202,
+        "units": "g"
+    },
+    {
+        "nutrNo": "506",
+        "description": "Methionine",
+        "tagname": "MET_G",
+        "value": 0.011,
+        "units": "g"
+    },
+    {
+        "nutrNo": "507",
+        "description": "Cystine",
+        "tagname": "CYS_G",
+        "value": 0.032,
+        "units": "g"
+    },
+    {
+        "nutrNo": "508",
+        "description": "Phenylalanine",
+        "tagname": "PHE_G",
+        "value": 0.09,
+        "units": "g"
+    },
+    {
+        "nutrNo": "509",
+        "description": "Tyrosine",
+        "tagname": "TYR_G",
+        "value": 0.099,
+        "units": "g"
+    },
+    {
+        "nutrNo": "510",
+        "description": "Valine",
+        "tagname": "VAL_G",
+        "value": 0.273,
+        "units": "g"
+    },
+    {
+        "nutrNo": "511",
+        "description": "Arginine",
+        "tagname": "ARG_G",
+        "value": 0.134,
+        "units": "g"
+    },
+    {
+        "nutrNo": "512",
+        "description": "Histidine",
+        "tagname": "HISTN_G",
+        "value": 0.017,
+        "units": "g"
+    },
+    {
+        "nutrNo": "513",
+        "description": "Alanine",
+        "tagname": "ALA_G",
+        "value": 0.058,
+        "units": "g"
+    },
+    {
+        "nutrNo": "514",
+        "description": "Aspartic acid",
+        "tagname": "ASP_G",
+        "value": 0.228,
+        "units": "g"
+    },
+    {
+        "nutrNo": "515",
+        "description": "Glutamic acid",
+        "tagname": "GLU_G",
+        "value": 0.448,
+        "units": "g"
+    },
+    {
+        "nutrNo": "516",
+        "description": "Glycine",
+        "tagname": "GLY_G",
+        "value": 0.072,
+        "units": "g"
+    },
+    {
+        "nutrNo": "517",
+        "description": "Proline",
+        "tagname": "PRO_G",
+        "value": 0.063,
+        "units": "g"
+    },
+    {
+        "nutrNo": "518",
+        "description": "Serine",
+        "tagname": "SER_G",
+        "value": 0.125,
+        "units": "g"
+    },
+    {
+        "nutrNo": "606",
+        "description": "Fatty acids, total saturated",
+        "tagname": "FASAT",
+        "value": 0.058,
+        "units": "g"
+    },
+    {
+        "nutrNo": "612",
+        "description": "14:0",
+        "tagname": "F14D0",
+        "value": 0.002,
+        "units": "g"
+    },
+    {
+        "nutrNo": "613",
+        "description": "16:0",
+        "tagname": "F16D0",
+        "value": 0.05,
+        "units": "g"
+    },
+    {
+        "nutrNo": "614",
+        "description": "18:0",
+        "tagname": "F18D0",
+        "value": 0.005,
+        "units": "g"
+    },
+    {
+        "nutrNo": "617",
+        "description": "18:1 undifferentiated",
+        "tagname": "F18D1",
+        "value": 0.031,
+        "units": "g"
+    },
+    {
+        "nutrNo": "618",
+        "description": "18:2 undifferentiated",
+        "tagname": "F18D2",
+        "value": 0.113,
+        "units": "g"
+    },
+    {
+        "nutrNo": "619",
+        "description": "18:3 undifferentiated",
+        "tagname": "F18D3",
+        "value": 0.02,
+        "units": "g"
+    },
+    {
+        "nutrNo": "645",
+        "description": "Fatty acids, total monounsaturated",
+        "tagname": "FAMS",
+        "value": 0.031,
+        "units": "g"
+    },
+    {
+        "nutrNo": "646",
+        "description": "Fatty acids, total polyunsaturated",
+        "tagname": "FAPU",
+        "value": 0.133,
+        "units": "g"
+    }
+], "sampleSizes": [
+    {
+        "ndbNo": "11302",
+        "amount": 1.0,
+        "description": "cup",
+        "weightGrams": 144.0
+    },
+    {
+        "ndbNo": "11302",
+        "amount": 1.0,
+        "description": "package (10 oz)",
+        "weightGrams": 284.0
+    }
+]}

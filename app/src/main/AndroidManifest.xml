@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ca.badenhorst.nutrition" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="ca.badenhorst.nutrition.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ca.badenhorst.nutrition.FoodDescriptionActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="ca.badenhorst.nutrition.FoodGroupActivity"
+            android:label="@string/title_activity_food_group" >
+        </activity>
+        <activity
+            android:name="ca.badenhorst.nutrition.ListFoodDescriptionActivity"
+            android:label="@string/title_activity_list_food_description" >
+        </activity>
+    </application>
+
+</manifest>
